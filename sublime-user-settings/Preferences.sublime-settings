@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"trim_trailing_white_space_on_save": true
+}

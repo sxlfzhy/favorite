@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Babel",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"JsFormat",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Origami",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeTmpl",
+		"Theme - Spacegray",
+		"Trimmer"
+	]
+}

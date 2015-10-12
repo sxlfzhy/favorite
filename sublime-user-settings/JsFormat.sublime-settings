@@ -1,0 +1,38 @@
+{
+	// exposed jsbeautifier options
+	// indent_with_tabs 如果为true 则使用tab进行缩进  否则 使用空格缩进
+	"indent_with_tabs": false,
+
+	// preserve_newlines 如果为true 则保留空行，否则不保留空行 
+	"preserve_newlines": true,
+
+	// max_preserve_newlines 最大空行个数
+	"max_preserve_newlines": 500,
+
+	// space_in_paren 括号内不能包含垃圾空格
+	"space_in_paren": false,
+
+	// jslint_happy 好吧，我也不知道是干嘛用的
+	"jslint_happy": true,
+
+	// 
+	"brace_style": "collapse",
+
+	// 保留数组的缩进格式
+	"keep_array_indentation": true,
+
+	// 保持方法的缩进格式
+	"keep_function_indentation": true,
+
+	"eval_code": false,
+	"unescape_strings": false,
+	"break_chained_methods": false,
+	"e4x": false,
+	"wrap_line_length": 0,
+
+	// jsformat options
+	"format_on_save": false,
+	"format_selection": true,
+	"jsbeautifyrc_files": false,
+	"ignore_sublime_settings": true
+}
